@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Gilded Rose kata in TypeScript",
   "scripts": {
-    "compile": "tsc"
+    "compile": "tsc",
+    "test": "mocha"
   },
   "license": "MIT",
   "private": true,
